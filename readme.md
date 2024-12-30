@@ -6,4 +6,4 @@
 
 - [Hello](#欢迎)
 - [About](#关于)
-- [Contact](#联系)
+- [Contacct](#联系)
